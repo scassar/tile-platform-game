@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "main.py", line 3, in <module>
+    from sprites import *
+ImportError: No module named sprites
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "main.py", line 3, in <module>
+    from sprites import *
+ImportError: No module named sprites
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "super.py", line 4, in <module>
+    vec = pygame.math.Vector2
+AttributeError: 'module' object has no attribute 'math'
